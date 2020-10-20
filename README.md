@@ -1,6 +1,6 @@
 # Deploy Demo App
 
-These modules deploy a simple demo app to an IKS Cluster using either a [Cluster Ingress](./ingress) deployment.
+These modules deploy a simple demo app to an IKS Cluster using a [Cluster Ingress](./ingress) deployment.
 
 ## Ingress Deployment
 
