@@ -1,4 +1,4 @@
-# Deploy Demo App
+# Microservices with ingress on Kubernetes cluster
 
 These modules deploy a simple demo app to an IKS Cluster using a [Cluster Ingress](./ingress) deployment.
 
