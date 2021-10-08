@@ -53,7 +53,6 @@ data ibm_container_vpc_cluster cluster {
 ##############################################################################
 
 provider kubernetes {
-  load_config_file       = false
   host                   = data.ibm_container_cluster_config.cluster.host
   client_certificate     = data.ibm_container_cluster_config.cluster.admin_certificate
   client_key             = data.ibm_container_cluster_config.cluster.admin_key
